@@ -1,5 +1,5 @@
 {
-    "CodeName": {
+"CodeName": {
         "TimeExpired": {
             "year": 0,
             "day": 0,
@@ -8,37 +8,22 @@
         "Rewards": {
             "Items": [
                 {
-                    "Name": "Test",
-                    "Count": 1
-                },
-                {
-                    "Name": "Test",
-                    "Count": 1
+                
                 }
             ],
             "NumberValue": [
                 {
-                    "Name": "Test",
-                    "Count": 1
-                },
-                {
-                    "Name": "Test",
-                    "Count": 1
+                
                 }
             ],
             "Units": [
                 {
-                    "Name": "Test",
-                    "Count": 1
-                },
-                {
-                    "Name": "Test",
-                    "Count": 1
+                
                 }
             ]
         }
     },
-    "Codengu": {
+    "Codeasdasda": {
         "TimeExpired": {
             "year": 0,
             "day": 0,
@@ -47,34 +32,20 @@
         "Rewards": {
             "Items": [
                 {
-                    "Name": "Test",
-                    "Count": 1
-                },
-                {
-                    "Name": "Test",
-                    "Count": 1
+                
                 }
             ],
             "NumberValue": [
                 {
-                    "Name": "Test",
-                    "Count": 1
-                },
-                {
-                    "Name": "Test",
-                    "Count": 1
+                
                 }
             ],
             "Units": [
                 {
-                    "Name": "Test",
-                    "Count": 1
-                },
-                {
-                    "Name": "Test",
-                    "Count": 1
+                
                 }
             ]
         }
     }
+
 }
